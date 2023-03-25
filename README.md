@@ -1,6 +1,10 @@
-### Hi there 👋
+<img src="https://www.codewars.com/users/pachipico/badges/large"><br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachipico&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=pachipico&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=pachipico&show_icons=true"><br></br>
+
+
+
+
 
 <!--
 **pachipico/pachipico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
