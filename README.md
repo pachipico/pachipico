@@ -1,7 +1,7 @@
 
 
 <div transform="scaleY(-1)" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=Hi👋&nbsp;my&nbsp;name&nbsp;is...&fontSize=75" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=Hi👋&nbsp;my&nbsp;name&nbsp;is&fontSize=75" />
   <img src="https://www.codewars.com/users/pachipico/badges/large"><br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachipico&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=pachipico&show_icons=true"><br></br>
